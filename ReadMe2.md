@@ -104,7 +104,7 @@ The applicants are allowed to use third-party libraries, change the structure of
 - The applicant will be given a fully configured machine with the proper tooling installed and configured for the exam
 - Project will be already cloned in the machine, set to a applicant specific branch and imported on Visual Studio ready to deploy
 - **[IMPORTANT]** The expected time for finishing the question is 1.5 hours, but there´s actually no fixed time limit. The applicant is free to span some extra time on it if they wish to. **Quality is what counts the most.**
-- **[IMPORTANT]** Once the applicant is finished they need to **push their branch to github and open a Pull Request against the master branch. They should also include a plain txt file, or a comment on the commit, mentioning the amount of time taken to finish it (e.g: 1h30m, 1h08m, 44m etc...)**
+- **[IMPORTANT]** Once the applicant is finished they need to generate a zip including the final codebase, and a readme.txt file containing the amount of time he took to finish it and any other considerations he might have **
 
 
 ---
